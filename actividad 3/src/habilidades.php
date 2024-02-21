@@ -6,6 +6,25 @@
 <header>
 	<title>video 1</title>
 </header>	
+<style>
+	.container{
+			background-color: black;
+		}
+        /* Estilos CSS aquí */
+        h3 {
+            color: #0BB5C6; /* Cambia el color del texto a rojo */
+        }
+
+       	p {
+            color: #13A97C; /* Cambia el color del texto a verde */
+        }
+        li {
+             color: #13A997; /* Cambia el color del texto a verde */
+         }
+         strong{
+         	color: #1345A9;
+         }
+    </style>
 </head>
 <body>
 	<div class="container">
